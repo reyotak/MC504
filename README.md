@@ -2,6 +2,8 @@
 
 Programa para visualizar o clássico problema do Jantar dos Filósofos.
 
+![image](https://github.com/reyotak/MC504/assets/60493369/d255ff44-3af4-430d-ab61-695c3b5a8a53)
+
 O problema sugerido por Dijkstra em 1965, é definido no LittleBookOfSemaphores como:
 
 ![image](https://github.com/reyotak/MC504/assets/60493369/a4ac6504-63d9-41fb-bd07-b6c54e8ced71)
