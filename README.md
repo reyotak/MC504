@@ -33,6 +33,9 @@ Neste caso colocaremos 1 segundo. Após apertarmos "Enter" o programa começará
 Estado Pensando:
 ![image](https://github.com/reyotak/MC504/assets/60493369/21f3bac4-c595-4d27-a0fc-c03aa4255d0d)
 
+Estado Sem Garfos:
+![image](https://github.com/reyotak/MC504/assets/60493369/49ca5ab6-9ea4-4549-9ac1-35e4213333ef)
+
 Estado Segurando Garfo Esquerdo Apenas:
 ![image](https://github.com/reyotak/MC504/assets/60493369/7c6567a0-cc98-4632-9a46-2f8fa7686716)
 
