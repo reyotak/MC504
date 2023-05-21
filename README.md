@@ -4,12 +4,7 @@ Programa para visualizar o clássico problema do Jantar dos Filósofos.
 
 O problema sugerido por Dijkstra em 1965, é definido no LittleBookOfSemaphores como:
 
-Basic philosopher loop
-1 while True :
-2 think ()
-3 get_forks ()
-4 eat ()
-5 put_forks ()
+![image](https://github.com/reyotak/MC504/assets/60493369/a4ac6504-63d9-41fb-bd07-b6c54e8ced71)
 
 O código filosofos.c segue esse loop. No entanto, ao invés de ter um loop infinito (while true), teremos um número finito de refeições disponíveis.
 
