@@ -37,10 +37,10 @@ Estado Segurando Garfo Esquerdo Apenas:
 ![image](https://github.com/reyotak/MC504/assets/60493369/7c6567a0-cc98-4632-9a46-2f8fa7686716)
 
 Estado Segurando Garfo Direito Apenas:
-![image](https://github.com/reyotak/MC504/assets/60493369/b1291b0a-05b2-4c7f-b117-d9ada488b838)
+![image](https://github.com/reyotak/MC504/assets/60493369/34d7488e-f900-4124-bc97-c0a54a777caf)
 
 Estado Comendo:
-![image](https://github.com/reyotak/MC504/assets/60493369/857dc07a-53e2-45df-903a-7c17aa35044e)
+![image](https://github.com/reyotak/MC504/assets/60493369/03684f44-f734-42ef-a60b-5096178ac5f0)
 
 Toda vez que um filósofo fizer uma ação (pegar o garfo, soltar o garfo, pensar ou comer) será printada o estado da mesa:
 ![image](https://github.com/reyotak/MC504/assets/60493369/026297f3-3340-4e5e-a3c3-8e5f7b413f78)
